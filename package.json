@@ -1,0 +1,25 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "css-loader": "^7.1.2",
+    "eslint": "^9.14.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "lodash": "^4.17.21"
+  }
+}
